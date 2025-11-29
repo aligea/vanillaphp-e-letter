@@ -1,0 +1,45 @@
+body
+{
+	padding:0; 
+	font-family: verdana;
+	margin:0px auto auto auto;
+	color:#424849;
+	font-size:11px;
+	margin:0px;
+}
+
+#header{
+	padding-top:15px;
+	padding-bottom:5px;
+	margin:0px;
+	height:50px;
+	background-color:#fff;
+	border-bottom:10px solid #4D7496;
+}
+.title{ padding-left:140px;float:left; font-size:46px; font-weight:bold; color:#4D7496; text-shadow:#999 1px 1px 15px;}
+.logo{ float:right; padding-right:240px;}
+
+#raw{
+	width:100%;
+	height:450px; 
+	margin:0px;	
+	background-color:#fff;
+}
+.raw-login{ 
+	background-color:#fff; color:#333; float:left; width:360px; margin-left:40px; margin-top:15px; margin-bottom:15px;
+	border-radius:10px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	}
+.raw-login-form { border:1px solid #ccc; margin-top:10px; background-color:#f5f5f5; height:320px;}
+.raw-login-form table { padding-left:45px; padding-top:30px;}
+.raw-login-form table tr td{ font-size:12px;}
+	
+.raw-img{ background-color:#f5f5f5; float:left; width:540px; height:320x; margin-left:165px; margin-top:25px; margin-bottom:15px;border:2px solid #ccc;
+	}
+#footer{
+	height:30px;
+	background-color:#fff;
+	border-top:4px solid #4D7496;
+}
+#footer span{ font-family:verdana; color:#333; text-align:center; font-size:12px; padding-left:450px;}
